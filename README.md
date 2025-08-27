@@ -54,23 +54,8 @@ The goal is to create a **robust, maintainable, and scalable test framework** th
 ---
 
 ## **📂 Project Structure**
-**
-OrangeHRM-Automation/
-│── src/main/java/
-│ ├── pages/ # Page Object Model classes (LoginPage, DashboardPage, etc.)
-│ ├── utils/ # Utility classes (Waits, ConfigReader, etc.)
-│
-│── src/test/java/
-│ ├── tests/ # TestNG test classes
-│ ├── stepDefinitions/ # BDD Step Definitions
-│ ├── runners/ # TestNG Runner for BDD
-│ ├── apiTests/ # REST Assured test classes
-│
-│── features/ # Gherkin Feature Files
-│── reports/ # Extent HTML Reports
-│── pom.xml # Maven Dependencies
-│── README.md # Project Documentation
 
+<pre> ```text OrangeHRM-Automation/ │── src/main/java/ │ ├── pages/ # Page Object Model classes (LoginPage, DashboardPage, etc.) │ ├── utils/ # Utility classes (Waits, ConfigReader, etc.) │ │── src/test/java/ │ ├── tests/ # TestNG test classes │ ├── stepDefinitions/ # BDD Step Definitions │ ├── runners/ # TestNG Runner for BDD │ ├── apiTests/ # REST Assured test classes │ │── features/ # Gherkin Feature Files │── reports/ # Extent HTML Reports │── pom.xml # Maven Dependencies ``` </pre>
 
 ---
 
