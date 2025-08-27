@@ -54,7 +54,7 @@ The goal is to create a **robust, maintainable, and scalable test framework** th
 ---
 
 ## **📂 Project Structure**
-
+```
 automation-framework/
 ├─ src/test/java/
 │  ├─ uiTests/
@@ -73,4 +73,4 @@ automation-framework/
 ## **⚡ Getting Started**
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/YourUsername/OrangeHRM-EndToEnd-Automation.git
+git clone https://github.com/Shivshanker869/OrangeHRM-EndToEnd-Automation.git
