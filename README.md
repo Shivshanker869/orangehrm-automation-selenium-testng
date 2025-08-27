@@ -54,7 +54,7 @@ The goal is to create a **robust, maintainable, and scalable test framework** th
 ---
 
 ## **📂 Project Structure**
-```
+``
 automation-framework/
 ├─ src/test/java/
 │  ├─ uiTests/
@@ -70,6 +70,7 @@ automation-framework/
 ├─ reports/
 ├─ pom.xml
 
+---
 ## **⚡ Getting Started**
 ### **1. Clone the Repository**
 ```bash
