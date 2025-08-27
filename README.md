@@ -61,19 +61,19 @@ git clone https://github.com/Shivshanker869/OrangeHRM-EndToEnd-Automation.git
 ```
 OrangeHRM-Automation/
 │── src/main/java/
-│ ├── pages/ # Page Object Model classes (LoginPage, DashboardPage, etc.)
-│ ├── utils/ # Utility classes (Waits, ConfigReader, etc.)
+│ ├── pages/  Page Object Model classes (LoginPage, DashboardPage, etc.)
+│ ├── utils/ Utility classes (Waits, ConfigReader, etc.)
 │
 │── src/test/java/
-│ ├── tests/ # TestNG test classes
-│ ├── stepDefinitions/ # BDD Step Definitions
-│ ├── runners/ # TestNG Runner for BDD
-│ ├── apiTests/ # REST Assured test classes
+│ ├── tests/  TestNG test classes
+│ ├── stepDefinitions/  BDD Step Definitions
+│ ├── runners/  TestNG Runner for BDD
+│ ├── apiTests/  REST Assured test classes
 │
-│── features/ # Gherkin Feature Files
-│── reports/ # Extent HTML Reports
-│── pom.xml # Maven Dependencies
-│── README.md # Project Documentation
+│── features/  Gherkin Feature Files
+│── reports/  Extent HTML Reports
+│── pom.xml  Maven Dependencies
+│── README.md  Project Documentation
 
 
 
