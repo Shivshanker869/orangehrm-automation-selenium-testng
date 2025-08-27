@@ -54,6 +54,7 @@ The goal is to create a **robust, maintainable, and scalable test framework** th
 ---
 
 ## **📂 Project Structure**
+**
 OrangeHRM-Automation/
 │── src/main/java/
 │ ├── pages/ # Page Object Model classes (LoginPage, DashboardPage, etc.)
